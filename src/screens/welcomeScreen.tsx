@@ -17,7 +17,7 @@ export class WelcomeScreen extends React.Component {
                         },
                         bottomContainer: {
                             backgroundColor: "#252525",
-                            description: "Visual Studio App Center is mission control for apps. It brings together multiple services, commonly used for mobile developers, into a single, integrated product.\n\n\nSwipe right to learn about our services"
+                            description: "This is Contact app version 2"
                         }
                     }
                 }>
